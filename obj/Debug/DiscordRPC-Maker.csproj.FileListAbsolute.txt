@@ -1,0 +1,10 @@
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\bin\Debug\DiscordRPC-Maker.exe.config
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\bin\Debug\DiscordRPC-Maker.exe
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\bin\Debug\DiscordRPC-Maker.pdb
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\obj\Debug\DiscordRPC-Maker.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\obj\Debug\DiscordRPC_Maker.Form1.resources
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\obj\Debug\DiscordRPC_Maker.Properties.Resources.resources
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\obj\Debug\DiscordRPC-Maker.csproj.GenerateResource.cache
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\obj\Debug\DiscordRPC-Maker.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\obj\Debug\DiscordRPC-Maker.exe
+C:\Users\x\Desktop\proyectos\DiscordRPC-Maker\obj\Debug\DiscordRPC-Maker.pdb
